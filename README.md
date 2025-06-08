@@ -9,7 +9,7 @@ As the analyst on the project, I worked closely with stakeholders to scope key q
 ##  Data Structure & Initial Checks
 The dataset used for this analysis includes multiple HR-related dimensions, covering employee demographics, compensation, engagement, and tenure-related attributes. Below is a structured view of the data schema:
 
-###  Employee_Info Table
+### Employee_Info Table
 
 | Column               | Data Type |    
 |----------------------|-----------|
@@ -31,7 +31,7 @@ The dataset used for this analysis includes multiple HR-related dimensions, cove
 | MaritalStatus        | String    |
 
 
-###  Employee_Tenure Table
+### Employee_Tenure Table
 
 | Column                   | Data Type |
 |--------------------------|-----------|
@@ -56,7 +56,7 @@ The dataset used for this analysis includes multiple HR-related dimensions, cove
 
 
 
-###  Initial Checks Performed
+### Initial Checks Performed
 
 - Verified column data types and consistency across tables  
 - Checked for missing values and duplicate `Employee ID` entries  
